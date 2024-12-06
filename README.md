@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thusandso
 - 👀 I’m interested in tables and dataframes
 - 🌱 I’m currently learning new dataframes
-- 💞️ I’m looking to collaborate on electronic music project!
 - 📫 How to reach me > linkedin.com/in/daniyaru
 
 <!---
